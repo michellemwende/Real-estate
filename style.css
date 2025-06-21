@@ -42,7 +42,7 @@ body {
     transform: translateX(-50%);
 }
 
-/* Left and Right Nav Groups */
+
 .nav-left, .nav-right {
     display: flex;
 }
